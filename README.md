@@ -9,3 +9,17 @@ To get started developing right away:
 
 * Install all project dependencies with `npm install`
 * Start the development server with `npm start`
+
+## Demo
+
+Search
+![ScreenShot](https://github.com/RamarajaRamanujan/myreads/blob/main/screenshots/search.png?raw=true)
+
+Add Book
+![ScreenShot](https://github.com/RamarajaRamanujan/myreads/blob/main/screenshots/add-book.png?raw=true)
+
+Home
+![ScreenShot](https://github.com/RamarajaRamanujan/myreads/blob/main/screenshots/home.png?raw=true)
+
+Change Status
+![ScreenShot](https://github.com/RamarajaRamanujan/myreads/blob/main/screenshots/change-status.png?raw=true)
